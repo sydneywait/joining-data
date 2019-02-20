@@ -1,0 +1,88 @@
+{
+    "employees": [
+        {
+            "name": "Bob McGuffin",
+            "computerId": 1,
+            "departmentId": 1,
+            "id": 1
+        },
+        {
+            "name": "Sharon Smith",
+            "computerId": 2,
+            "departmentId": 3,
+            "id": 2
+        },
+        {
+            "name": "Michael Scott",
+            "computerId": 3,
+            "departmentId": 3,
+            "id": 3
+        },
+        {
+            "name": "Toby",
+            "computerId": 4,
+            "departmentId": 2,
+            "id": 4
+        },
+        {
+            "name": "Angela",
+            "computerId": 5,
+            "departmentId": 1,
+            "id": 5
+        },
+        {
+            "name": "Oscar",
+            "computerId": 6,
+            "departmentId": 1,
+            "id": 6
+        }
+    ],
+    "computers":[
+        {
+            "id": 1,
+            "computerName": "1988 Apple IIe"
+
+        },
+        {
+            "id": 2,
+            "computerName": "Macbook Pro"
+
+        },
+        {
+            "id": 3,
+            "computerName": "Microsoft Surface"
+
+        },
+        {
+            "id": 4,
+            "computerName": "Dell Inspiron"
+
+        },
+        {
+            "id": 5,
+            "computerName": "Lenovo Yoga"
+
+        },
+        {
+            "id": 6,
+            "computerName": "Chromebook"
+
+        }
+    ],
+
+    "departments":[
+
+        {
+            "id": 1,
+            "name": "Finance"
+        },
+        {
+            "id": 2,
+            "name": "Human Resources"
+        },
+        {
+            "id": 3,
+            "name": "Sales"
+        }
+    ]
+}
